@@ -1,7 +1,7 @@
 # 第二週_切版作業
 ## 版型
 
-https://xd.adobe.com/view/2f4241fa-02d5-4948-7955-a72b4bea739e-5973/
+https://xd.adobe.com/view/7cc08d73-d444-4b6f-7a94-01ffbdf8ce0a-0af1/
 
 ## 回報
 
