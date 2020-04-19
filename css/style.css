@@ -1,0 +1,71 @@
+@import 'reset.css';
+
+/* Global */
+*{
+    transition-duration: 0.5s;
+    font-family: 微軟正黑體;
+}
+
+/* mainJoanne */
+.mainJoanne{
+    height: 960px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../images/photo-1552393700-42696fb89bfa@2x.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.mainJoanne .mainTitle{
+    font-size: 80px;
+    font-family: Roboto;
+    font-style: italic;
+}
+.mainJoanne .mainTitle:before{
+    content: 'Here’s';
+    font-size: 24px;
+    position: absolute;
+    transform: translateY(-20px);
+}
+.mainJoanne .subtitle{
+    font-family: Roboto;
+    font-style: italic;
+    font-size: 24px;
+    margin: 32px 0 64px 0;
+    line-height: 42px;
+}
+.mainJoanne .socialList {
+    display: flex;
+    justify-content: space-between;
+}
+.mainJoanne .socialList a:hover{
+    opacity: 0.5;
+}
+
+
+/* mainAbout */
+.mainAbout{
+    height: 993px;
+}
+
+
+/* mainBrand */
+.mainBrand{
+    height: 1407px;
+    background: #000;
+    color: white;
+}
+
+
+/* mainWork */
+.mainWork{
+    height: 1919px;
+}
+
+
+/* footer */
+footer{
+    height: 317px;
+}
